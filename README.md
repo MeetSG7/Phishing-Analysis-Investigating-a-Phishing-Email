@@ -16,3 +16,10 @@ IP reputation check (e.g., VirusTotal, AbuseIPDB, Cisco Talos)
 Whois lookup (e.g., whois.domaintools.com)
 URL and Domain analysis (e.g., urlscan.io, VirusTotal)
 
+# Step 1
+ ## Determined the full email address of the sender
+ <img width="624" height="400" alt="Q-A- 1" src="https://github.com/user-attachments/assets/bb8f3f9f-da2a-4737-a2f4-d960d0b66d36" />
+
+
+
+
